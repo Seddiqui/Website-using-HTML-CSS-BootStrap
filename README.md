@@ -1,3 +1,4 @@
-# Bootstrap
-It is a Project that I will learn the Bootstrap 
-And I implemented the Bootstrap version 5
+# Static Website Using HTML CSS BootStrap
+Details:
+In this project I use HTML 5 for creating the body of website, CSS 3 and BootStrap 4 and 5 for design of webiste.  
+It is fully responsive for any types of devices.
